@@ -1,0 +1,136 @@
+body {
+/*background-image: radial-gradient(farthest-corner at 40px 40px, #3f87a6, cyan, #cc6633);*/
+background-image: radial-gradient(ellipse at top, orange, transparent);
+background-image: url("https://i.imgur.com/wa3YIj0.jpg");
+            		/*max-width: 600px;*/
+            		/*height: 250;*/
+					background-size: cover;
+					background-position: center;
+					text-align: left;
+					margin: 20px;
+					color: #C2185B;
+					font-size: 20px;
+					}
+
+				
+.image {
+	float: left;
+	height:70px;
+	width: 80px;
+	/*display: inline;*/
+	
+}
+.org {
+	font-size: 60px;
+	font-family:'Londrina Outline', cursive;
+	color: white;
+		}
+.product {
+	display: flex;
+   flex-direction: row;
+   /* Below sets up your display method: flex-start|flex-end|space-between|space-around */
+   justify-content: flex-end; 
+   /* Below removes bullets and cleans white-space */
+   list-style: none;
+   padding-left:0px;
+   /* Bonus: forces no word-wrap */
+   white-space: nowrap;
+   margin-left: 20px;
+   float: right
+}
+
+.a {
+padding: 20px;
+}
+
+.log {
+	/*border: 1px solid black;*/
+	color: blue;
+	/*padding: 4px;*/
+}
+.get {
+	/*border: 1px solid black;*/
+	color: blue;
+	/*padding: 4px;*/
+}
+h1 {
+	color: cyan;
+	border: 0.5px solid white;
+	background-color: red;
+	float: left;
+	margin-left: 20px;
+	font-family: lobster;
+}
+
+.main{
+	float: left;
+	margin: 0 auto;/* //main magic goes here in margi property*/
+         width:100% ;/*// optional you can give as 80% or 90% */
+         max-height:100%; /*// this will be equal to parent's 100px*/
+         height:auto ; /*//you can give as 80% or 90%*/ 
+         max-width:100%; /*// this will be equal to parent's 100px*/
+}
+.you {
+	list-style: none;
+	float: left;
+	margin-left: 20px;
+	
+}
+
+
+.i:before {
+    content: "+";
+    margin-right: 4px;
+}
+.list {
+	display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   list-style: none;
+   padding-left:15px;
+   white-space: nowrap;
+   float: left;
+  }
+
+   footer .list a {
+   	color: magenta;
+   	text-decoration-line: none;
+   	padding: 20px
+   	  	   	   	}
+   	.main-content {
+   		margin: 0 auto; 
+         width:100% ;
+         max-height:100%; 
+         height:auto ;  
+         max-width:100%;
+   	}
+   	
+   	.f {
+   		margin: 0 auto; 
+         width:100% ;
+         max-height:100%; 
+         height:auto ; 
+         max-width:100%; 
+
+   	}
+   	p {
+   		float: left;
+   		display: block;
+   		margin: 0 auto; 
+         width:100% ;
+         max-height:100%; 
+         height:auto ; 
+         max-width:100%; 
+   	}
+   	ul {
+   		float: left;
+   		display: block;
+   		margin-left: 20px;
+	   	}
+ @media (max-width: 500px){
+ 			 div{
+    			font-size:50px;
+   				 margin-top: 20px;
+   				 line-height: 40px;
+   				}
+			}
