@@ -1,0 +1,54 @@
+
+body{
+	background-color: black;
+	padding: 20px;
+}
+
+.main-content{
+	color:white;
+	width: 70%;
+	margin-top: 400px;
+	margin-left: 50px;
+	font-family: Arial;
+}
+.hi {
+	font-size: 25px;
+}
+.my {
+	margin-top: -10px;
+	font-size: 20px;
+}
+.my a{ 
+text-decoration-line: none;
+color: #cc6633;
+}
+.i {
+	margin-top: -10px;
+	font-size: 20px;
+}
+.i a{
+	text-decoration-line: none;
+	color: #cc6633;
+}
+li {
+	padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 25px;
+   padding-right: 25px;
+}
+ul {
+	display: flex;
+   flex-direction: row;
+   /* Below sets up your display method: flex-start|flex-end|space-between|space-around */
+   justify-content: flex-start; 
+   /* Below removes bullets and cleans white-space */
+   list-style: none;
+   padding-left:15px;
+   /* Bonus: forces no word-wrap */
+   white-space: nowrap;
+  }
+
+   footer .list a {
+   	color: #cc6633;
+   	text-decoration-line: none;
+   	   	   	}
