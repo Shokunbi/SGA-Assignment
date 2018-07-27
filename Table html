@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>World-cup Table</title>
+	<link rel="stylesheet" type="text/css" href="table.css"/>
+	<link rel="icon" type="image/jpg" sizes="16x16" href="https://i.imgur.com/WFY4bfr.jpg"/>
+	<link rel="icon" sizes="16x16" href="https://i.imgur.com/WFY4bfr.jpg"/>
+	<audio controls="controls" autoplay>
+  <source src="horse.ogg" type="audio/ogg" />
+  <source src="../audio/Soccer-Stadium.mp3" type="audio/mp3" />
+   </audio>
+</head>
+<body>
+<div class="first">
+	<span class="fc">Fifa World cup 2018 <br/><span>
+		<ul>
+			<li>SCHEDULE</li>
+			<li>FIXTURES</li>
+			<li>TIMETABLE</li>
+		</ul></span>
+	</span>
+	<span class="w"><img src="https://i.imgur.com/WFY4bfr.jpg" class="i"alt="worldcup"></span>
+	<span class="a">WALL CHART<br/><span class="d">Design by : Shokunbi Aminat</span></span>
+	<span><img src="https://i.imgur.com/WFY4bfr.jpg" class="t"alt="worldcup"></span>
+	<span class="fb">Fifa World cup 2018 <br/><span>
+		<ul>
+			<li>SCHEDULE</li>
+			<li>FIXTURES</li>
+			<li>TIMETABLE</li>
+		</ul></span>
+	</span>
+</div>
+<div class="main-content"> 
+	<span class="table-1">
+		<table>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP A</th>
+					<th scope="col">Russia</th>
+					<th colspan="2">Saudi Arabia</th>
+					<th scope="col">Egypt</th>
+					<th scope="col">Uruguay</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-1 <br/><span>Russia *** Saudi Arabia</span><br/> 14, June 2018, 4pm<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-2 <br/><span>Egypt *** Uraguay</span><br/> 15, June 2018, 1pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-17 <br/><span>Russia *** Egypt</span><br/> 19, June 2018, 7pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-18 <br/><span>Uraguay *** Saudi Arabia</span><br/> 20, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-33 <br/><span>Uraguay *** Russia </span><br/> 25, June 2018, 3pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-34 <br/><span>Saudi Arabia *** Egypt</span><br/> 25, June 2018, 3pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+		</table>
+		<table>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP B</th>
+					<th scope="col">Portugal</th>
+					<th colspan="2">Spain</th>
+					<th scope="col">Morocco</th>
+					<th scope="col">Iran</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-3 <br/><span>Morocco *** Iran</span><br/> 15, June 2018, 4pm<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-4 <br/><span>Portugal *** Spain</span><br/> 15, June 2018, 7pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-19 <br/><span>Portugal *** Morocco</span><br/> 20, June 2018, 1pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-20 <br/><span>Iran *** Spain</span><br/> 20, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-35 <br/><span>Iran *** Portugal </span><br/> 25, June 2018, 3pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-36 <br/><span>Spain *** Morocco</span><br/> 25, June 2018, 3pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+		</table>
+		<table>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP C</th>
+					<th scope="col">France</th>
+					<th colspan="2">Australia</th>
+					<th scope="col">Peru</th>
+					<th scope="col">Denmark</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-5 <br/><span>France *** Australia</span><br/> 16, June 2018, 11am<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-6 <br/><span>Peru *** Denmark</span><br/> 16, June 2018, 5pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-21 <br/><span>France *** Peru</span><br/> 21, June 2018, 1pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-22 <br/><span>Denmark *** Australia</span><br/> 21, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-37 <br/><span>Denmark *** France </span><br/> 26, June 2018, 3pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-38 <br/><span>Australia *** Peru</span><br/> 26, June 2018, 3pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+	</table>
+	<table>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP D</th>
+					<th scope="col">Argentina</th>
+					<th colspan="2">Iceland</th>
+					<th scope="col">Croatia</th>
+					<th scope="col">Nigeria</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-7 <br/><span>Argentina *** Iceland</span><br/> 16, June 2018, 2pm<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-8 <br/><span>Croatia *** Nigeria</span><br/> 16, June 2018, 8pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-23 <br/><span>Argentina *** Croatia</span><br/> 21, June 2018, 7pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-24 <br/><span>Nigeria *** Iceland</span><br/> 22, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-39 <br/><span>Nigeria *** Argentina </span><br/> 26, June 2018, 7pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-40 <br/><span>Iceland *** Croatia</span><br/> 26, June 2018, 7pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+		</table>
+	</span>
+	<span class="table-2">
+		<table>
+			<thead>
+			<tr>
+				<th scope="col" class="group">ROUND OF 16</th>
+				<th scope="col" colspan="3">Watch Live Match @ https://fifafootballworldcup.live</th>
+			</tr>
+		</thead>
+			<tbody>
+			<tr>
+				<th scope="row">Match-49</th>
+				<td>30 June 2018,7pm</td>
+				<th>Match-50</th>
+				<td>30 June 2018,3pm</td>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Group A <span class="versus">Vs</span> Runners-up Group B <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Group C <span class="versus">Vs</span> Runners-up Group D <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="row">Match-51</th>
+				<td>1 July 2018,3pm</td>
+				<th>Match-52</th>
+				<td>1 July 2018,7pm</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Group B <span class="versus">Vs</span> Runners-up Group A <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Group D <span class="versus">Vs</span> Runners-up Group C <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="row">Match-53</th>
+				<td>2 July 2018,3pm</td>
+				<th>Match-54</th>
+				<td>2 July 2018,7pm</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Group E <span class="versus">Vs</span> Runners-up Group F <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Group G <span class="versus">Vs</span> Runners-up Group H <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="row">Match-55</th>
+				<td>3 July 2018,3pm</td>
+				<th>Match-56</th>
+				<td>3 July 2018,7pm</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Group F <span class="versus">Vs</span> Runners-up Group E <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Group H <span class="versus">Vs</span> Runners-up Group G <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="col" class="group">QUARTER FINALS</th>
+				<th scope="col" colspan="3">Watch Live Match @ https://fifafootballworldcup.live</th>
+			</tr>
+		</thead>
+			<tbody>
+			<tr>
+				<th scope="row">Match-57</th>
+				<td>6 July 2018,3pm</td>
+				<th>Match-58</th>
+				<td>6 June 2018,7pm</td>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Match 49 <span class="versus">Vs</span> Winners Match 50 <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Match 53 <span class="versus">Vs</span> Winners Match 54 <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="row">Match-59</th>
+				<td>7 July 2018,7pm</td>
+				<th>Match-60</th>
+				<td>7 July 2018,3pm</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Match 51 <span class="versus">Vs</span> Winners Match 52 <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Match 55 <span class="versus">Vs</span> Winners Match 56 <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="col" class="group">SEMI FINALS</th>
+				<th scope="col" colspan="3">Watch Live Match @ https://fifafootballworldcup.live</th>
+			</tr>
+		</thead>
+			<tbody>
+			<tr>
+				<th scope="row">Match-61</th>
+				<td>10 July 2018,7pm</td>
+				<th>Match-62</th>
+				<td>11 June 2018,7pm</td>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<th scope="row" colspan="2"> Winner Match 57 <span class="versus">Vs</span> Winners Match 58 <br/> Eight Olympic Stadium, Sochi</th>
+				<td colspan="2"> Winners Match 59 <span class="versus">Vs</span> Winners Match 60 <br/> Kazan Arena, Kazan</td>
+			</tr>
+		</tbody>
+		<thead>
+			<tr>
+				<th scope="col" colspan="2">3rd PLACE PLAY OFF</th>
+				<th scope="col" colspan="2">14 July 2018, 3pm</th>
+			</tr>
+		</thead>
+		<tr>
+			<th></th>
+			<td colspan="2">Losers Match 61 <span class="versus">Vs</span> Losers Match 62 <br/> Kazan Arena, Kazan</td>
+			<td></td>
+		</tr>
+		<thead>
+			<tr>
+				<th scope="col" class="group">THE FINAL</th>
+				<th scope="col" colspan="3">15 July 2018, 3pm</th>
+			</tr>
+		</thead>
+		<tr>
+			<th></th>
+			<tH colspan="2">Winners Match 61 <span class="versus">Vs</span> Winners Match 62 <br/> Kazan Arena, Kazan</tH>
+			<td></td>
+		</tr>
+		</table>
+	</span>
+	<span class="table-3">
+		<table>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP E</th>
+					<th scope="col">Russia</th>
+					<th colspan="2">Saudi Arabia</th>
+					<th scope="col">Egypt</th>
+					<th scope="col">Uruguay</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-1 <br/><span>Russia *** Saudi Arabia</span><br/> 14, June 2018, 4pm<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-2 <br/><span>Egypt *** Uraguay</span><br/> 15, June 2018, 1pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-17 <br/><span>Russia *** Egypt</span><br/> 19, June 2018, 7pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-18 <br/><span>Uraguay *** Saudi Arabia</span><br/> 20, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-33 <br/><span>Uraguay *** Russia </span><br/> 25, June 2018, 3pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-34 <br/><span>Saudi Arabia *** Egypt</span><br/> 25, June 2018, 3pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP F</th>
+					<th scope="col">Portugal</th>
+					<th colspan="2">Spain</th>
+					<th scope="col">Morocco</th>
+					<th scope="col">Iran</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-3 <br/><span>Morocco *** Iran</span><br/> 15, June 2018, 4pm<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-4 <br/><span>Portugal *** Spain</span><br/> 15, June 2018, 7pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-19 <br/><span>Portugal *** Morocco</span><br/> 20, June 2018, 1pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-20 <br/><span>Iran *** Spain</span><br/> 20, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-35 <br/><span>Iran *** Portugal </span><br/> 25, June 2018, 3pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-36 <br/><span>Spain *** Morocco</span><br/> 25, June 2018, 3pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP G</th>
+					<th scope="col">France</th>
+					<th colspan="2">Australia</th>
+					<th scope="col">Peru</th>
+					<th scope="col">Denmark</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-5 <br/><span>France *** Australia</span><br/> 16, June 2018, 11am<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-6 <br/><span>Peru *** Denmark</span><br/> 16, June 2018, 5pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-21 <br/><span>France *** Peru</span><br/> 21, June 2018, 1pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-22 <br/><span>Denmark *** Australia</span><br/> 21, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-37 <br/><span>Denmark *** France </span><br/> 26, June 2018, 3pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-38 <br/><span>Australia *** Peru</span><br/> 26, June 2018, 3pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+			<thead>
+				<tr>
+					<th scope="col" class="group">GROUP H</th>
+					<th scope="col">Argentina</th>
+					<th colspan="2">Iceland</th>
+					<th scope="col">Croatia</th>
+					<th scope="col">Nigeria</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">Watch Live Match @ https://fifafootballworldcup.live</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<th scope="row" colspan="2">MATCH-7 <br/><span>Argentina *** Iceland</span><br/> 16, June 2018, 2pm<br/><span>Lumity Stadium, Moscow</span></th>
+					<td colspan="2">MATCH-8 <br/><span>Croatia *** Nigeria</span><br/> 16, June 2018, 8pm<br/><span>Central Stadium, Yakhonghium</span></td>
+					<td colspan="2">MATCH-23 <br/><span>Argentina *** Croatia</span><br/> 21, June 2018, 7pm<br/><span>kreslovsky Stadium, Saint Perisburg</span></td>
+				</tr>
+				<tr>
+					<th scope="row" colspan="2">MATCH-24 <br/><span>Nigeria *** Iceland</span><br/> 22, June 2018, 4pm<br/><span>Roskov Arena, Roslovon-Don</span></th>
+					<td colspan="2">MATCH-39 <br/><span>Nigeria *** Argentina </span><br/> 26, June 2018, 7pm<br/><span>Cosmos Arena, Samara</span></td>
+					<td colspan="2">MATCH-40 <br/><span>Iceland *** Croatia</span><br/> 26, June 2018, 7pm<br/><span>Volgogard Arena, Volgogard</span></td>
+				</tr>
+			</tbody>
+		</table>
+	</span>
+</div>
+</body>
+</html>
