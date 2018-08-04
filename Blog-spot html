@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Blog-spot</title>
+	<meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" type="text/css" href="blog-spot.css"/>
+ 	 <link rel="icon" type="image/jpg" sizes="16x16" href="https://i.imgur.com/b3oU3uh.jpg"/>
+	<link rel="icon" sizes="16x16" href="https://i.imgur.com/b3oU3uh.jpg"/>
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="container">
+		<div class="main-content1">
+			<div class="wrap">
+				<div class="top-line">
+					<nav>
+					<hr class="line1" align="left">
+					<hr class="line2" align="left">
+					<hr class="line3" align="left">
+					</nav>
+				</div>
+				<div class="prof">
+					<div>
+					<img src="https://i.imgur.com/b3oU3uh.jpg"/ class="SA" alt="profile" width="80" height="120">
+					</div>
+					<div class="name"> <h1>Shokunbi Aminat</h1><br/><h6>Web designer</h6><br/><h6>follow her</h6><br/><hr/ class="horizon"></div>
+					<div class="social">
+						<ul>
+							<li><a href="https://web.facebook.com/shokunbiolamide.amioat"><img src="https://i.imgur.com/830nsDC.png" width="35" height="35"></a></li>
+							<li><a href="https://twitter.com/Slimmy576"><img src="https://i.imgur.com/9AloEtH.png" width="35" height="35"></a></li>
+							<li><a href="https://www.linkedin.com/in/shokunbi-aminat-92a080129/"><img src="https://i.imgur.com/gFrIPvY.png" width="35" height="35"></a></li>
+						</ul>
+					</div>
+					
+				</div>
+				<div class="prof1">
+					<div class="number"><strong>150</strong><br/> View visit</div>
+					<div class="follow"><strong>140</strong><br/> Place stay</div>
+					<div class="followers"><button><strong>45</strong><br/> Review</button></div>
+				</div>
+				<div class="interestt">
+					<div>Interest</div>
+					<div><hr/ class="horizon"></div>
+					
+				</div>
+				<div class="images">
+					<div class="images-1">
+						<img src="https://i.imgur.com/ssNn2fg.png" width="80" height="120" class="int" alt="view">
+						<div class="text-block">
+							<p>Restuarants <br/> view &#8594;</p>
+						</div>
+					</div>
+					<div class="images-2">
+						<img src="https://i.imgur.com/wa3YIj0.jpg" width="80" height="120" class="int" alt="see">
+						<div class="text-block">
+							<p>Stay Hostel</p>
+						</div>
+					</div>
+					<div class="images-3">
+						<img src="https://i.imgur.com/WFY4bfr.jpg" width="80" height="120" class="int" alt="look">
+						<div class="text-block">
+							<p>Shopping Mall</p>
+						</div>
+					</div>
+					
+				</div>
+				<div class="images2">
+					<div class="images2-1">
+						<img src="https://i.imgur.com/RDGJK1D.jpg" width="80" height="120" class="int" alt="wo" >
+						<div class="text-block">
+							<p>Visiting Place</p>
+						</div>
+					</div>
+					<div class="images2-2">
+						<img src="https://i.imgur.com/WpyxJL8.jpg"  width="80" height="120" class="int" alt="c">
+						<div class="text-block">
+							<p>Art & gallery</p>
+						</div>
+					</div>
+					<div class="images2-3">
+						<img src="https://i.imgur.com/GPOoPkW.jpg" width="80" height="120" class="int" alt="IC">
+						<div class="text-block">
+							<p>Photography</p>
+						</div>
+					</div>
+					
+				</div>
+				<div class="foot">
+					<footer>
+						<ul class="unl">
+							<li class="list"><img src="https://i.imgur.com/9c3pNAC.png" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/bDKryjt.png" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/b3oU3uh.jpg" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/TpA3aki.png" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/VLNVFOk.png" width="25" height="25"></li>
+						</ul>
+					</footer>
+				</div>
+			</div>
+		</div>
+		<div class="main-content2">
+			<div class="wrap">
+				<div class="top-line">
+					<hr class="line1" align="left">
+					<hr class="line2" align="left">
+					<hr class="line3" align="left">
+				</div>
+				<div class="latest">
+					<div class="our">
+						<h3>Our Latest<br/>News</h3>
+					</div>
+				</div>
+				<hr/>
+				<div class="five-star">
+					<div class="five-starimage">
+						<img src="https://i.imgur.com/79tiQe7.jpg" width="180" height="250" class="int" alt="view">
+						<div class="text-block">
+							<p><strong><font color="white">50 Reviews</font></strong><br/> &#9734;&#9734;&#9734;&#9734;&#9734;</p>
+						</div>
+					</div>
+					<div class="five-starword" width="180" height="250">
+						<h4>Storycal calture in Paris</h4>
+						<p>i know i can be what i wanna be, if i work hard in it, i will be where i wanna be. be! be!</p>
+					</div>
+				</div>
+				<div class="hr-line">
+				<div class="hor"><strong><hr/ class="horizon"></strong></div>
+				<div class="explore"><strong>Explore    ></strong></div>
+				</div>
+				<div class="four-star">
+					<div class="four-starimage">
+						<img src="https://i.imgur.com/DDWECcf.jpg" width="180" height="250" class="int" alt="view">
+						<div class="text-block">
+							<p><strong><font color="white">45 Reviews</font></strong><br/>&#9734;&#9734;&#9734;&#9734;</p>
+						</div>
+					</div>
+					<div class="four-starword">
+						<h4>Wildlife in Paris</h4>
+						<p>just when i think about calling it quit, the mercies of the Almighty showered on me. Alhamdulillah!</p>
+					</div>
+				</div>
+				<div class="hr-line">
+				<div class="hor"><strong><hr/ class="horizon"></strong></div>
+				<div class="explore"><strong>Explore    ></strong></div>
+				</div>
+				<div class="culture">
+					<div class="culture-image">
+						<img src="https://i.imgur.com/qd5Qp7R.jpg" width="180" height="250" class="int" alt="view">
+						<div class="text-block">
+							<p><strong><font color="white">95 Reviews</font></strong><br/> &#9734;&#9734;&#9734;&#9734;&#9734;</p>
+						</div>
+					</div>
+					<div class="culture-word">
+						<h4>Fasion calture in Paris</h4>
+						<p>im gonna need a miracle to help me this time. i need an angle, am calling an angel, send me an angel now!</p>
+					</div>
+					
+				</div>
+				<div class="hr-line">
+				<div class="hor"><strong><hr/ class="horizon"></strong></div>
+				<div class="explore"><strong>Explore    ></strong></div>
+				</div>
+				<div class="foot">
+					<footer>
+						<ul class="unl">
+							<li class="list"><img src="https://i.imgur.com/9c3pNAC.png" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/bDKryjt.png" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/b3oU3uh.jpg" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/4k17UWH.png" width="25" height="25"></li>
+							<li class="list"><img src="https://i.imgur.com/VLNVFOk.png" width="25" height="25"></li>
+						</ul>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
