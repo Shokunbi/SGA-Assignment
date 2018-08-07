@@ -1,0 +1,220 @@
+body{
+	/*margin: auto;*/
+    /*width: 1000px;*/
+    /*font-family: Verdana;*/
+	color: black;
+}
+#top-header{
+	display: block;
+	padding: 0 2% 0 2%;
+	}
+.top-head{
+	z-index: 100000;
+    color: #fff;
+    font-size: 14px;
+    line-height: 2em;
+    background-color: rgb(3, 45, 83);
+    padding-left: 150px;
+}
+i{
+	padding: 8px;
+}
+a{
+	font-weight: 500;
+   color: #fff;
+   text-decoration: none;
+}
+.logo{
+   width: 100px;
+   color: rgb(3, 45, 83);
+}
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: none;
+    border: 2px solid #ccc;
+    border-radius: 25px ;
+    padding: 10px 25px 10px 30px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url("https://i.imgur.com/U8PwT9u.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: inherit;
+}
+.head{
+	z-index: 99999;
+    color: black;
+    font-size: 14px;
+    line-height: 2em;
+    /*background-color: black;*/
+    padding-left: 150px;
+}
+.big-image{
+	background-image: url("https://i.imgur.com/RGQxdxA.jpg");
+	line-height: 5em;
+    /*background-color: black;*/
+    padding-left: 150px;
+    text-align: center;
+}
+.overlay {
+  /*position: absolute;*/
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color:inherit;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+.big-image:hover .overlay {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  /*position: absolute;*/
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.navigation-link{
+   float: right;
+   font-size: 12px;
+   padding-right: 35px;
+   padding-top: 8px;
+   color: black;
+}
+.navigation-space{
+   margin-right: 12px;
+   color: black;
+}
+
+@media screen and (max-width: 600px) {
+  .top-header, .head, .big-image, .middle, .bux, .down {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
+h1{
+   font-family: Playfair;
+   font-size: 60px;
+   font-weight: 400;
+   line-height: 72px;
+   color: white;
+      }
+button{
+	background-color: transparent;
+	border-radius: 1px solid white;
+	font-size: 25px;  
+	padding-top: 0px;   
+}
+.middle{
+	z-index: 100000;
+    /*color: #fff;*/
+    font-size: 14px;
+    line-height: 2em;
+    background-color: white;
+    /*padding-left: 150px;*/
+    margin-top: 100px;
+    margin-bottom: 0px;
+    display: flex;
+    height:250px;
+}
+.first-middle{
+	float: left;
+	padding-right: 150px;
+	padding-left: 50px;
+	}
+.second-middle{
+	float: center;
+	padding-right: 150px;
+}
+.third-middle{
+	float: right;
+	padding-left: 50px;
+}
+.text-block {
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    background-color: transparent;
+    color: black;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    width:200px;
+}
+h4{
+	margin-right: 0px;
+    border:3px solid white;
+	background-color: rgb(3, 45, 83);
+	width: 350px;
+	padding: 5px;
+	font-size: 24px;
+	height: 150px;
+	color: white;
+	}
+
+.bux{
+	z-index: 100000;
+	/*font-size: 12px;*/
+    line-height: 2em;
+    background-color: white;
+    /*padding-left: 150px;*/
+    margin-top: 100px;
+    margin-bottom: 0px;
+    display: flex;
+    height:250px;
+    padding-left: 170px;
+    /*margin-left: -100px;*/
+    
+}
+.img1 {
+    float: right;
+    height: 150;
+    margin-top:39px;
+    /*padding-left: 100px;*/
+    width: 200px; 
+}
+
+.clearfix {
+    overflow: auto;
+    padding-right: 200px;
+}
+
+.img2 {
+    float: right;
+    width: 190px;
+    height: 145px;
+    margin-top:39px;
+
+}
+
+.down{
+	/*z-index: 100000;*/
+    color: #fff;
+    font-size: 18px;
+    line-height: 2em;
+    background-color: rgb(3, 45, 83);
+    padding-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 0px;
+}
