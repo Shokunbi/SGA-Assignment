@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>arrestling.com</title>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="arresting.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
+</head>
+<div id="top-header">
+	<div class="top-head">
+		<i class="fa fa-phone"> (+234) 907-903-0500</i>
+		<i class="fa fa-envelope"> <a href="mailto:shokunbi.o.aminat@gmail.com">shokunbi.o.aminat@gmail.com</a></i>
+	</div>
+	<div class="head">
+		<nav>
+			<a href="http://arrestling.com/wp/wp-content/uploads/arr-logo-blue.png"> <img src="https://i.imgur.com/LvyJT96.png" class="logo" alt="logo"></a>
+			<div class="navigation-link">
+				<select>
+					<option value="Courses">Courses</option>
+				</select>
+				<a class="navigation-space" href="#">Schedule</a>
+	            <a class="navigation-space" href="#">Training Groups</a>
+	            <a class="navigation-space" href="#">Videos</a>
+	            <select>
+					<option value="About">About</option>
+				</select>
+				<a class="navigation-space" href="#">Weapons Throwing</a>
+				<a class="navigation-space" href="#">Contacts</a>
+				<a class="navigation-space" href="#">Store</a>
+			</div>
+		</nav>
+	</div>
+	<!-- 
+		<form>
+ 			 <input type="text" name="search" placeholder="">
+ 			 <a href="#"><i class="fa fa-bars"></i></a>
+		</form>
+		 -->
+	<div class="big-image">
+		<a href="http://arrestling.com/courses/"></a>
+		<h1><a href="http://arrestling.com/courses/">Arrestling Force Option <br/>Training</h1></a>
+		<button><a href="http://arrestling.com/courses/"><h2>view course option</h2></a></button>
+		<div class="overlay">
+    	<div class="text"><button><h2>view course option</h2></button></div>
+  		</div>
+
+	</div>
+	<div class="middle">
+		<div class="first-middle">
+			<a href="http://arrestling.com/courses/augmented-reality-training/"><img src="https://i.imgur.com/sZeGj1M.jpg" width="200"></a>
+			<div class="text-block">
+					<h2 text-align="center">Augmented Reality Based Training</h2>
+					<p>The way we use technology for training will change for the better, forever.....</p>
+			</div>
+		</div>
+		<div class="second-middle">
+			<a href="http://arrestling.com/courses/sirt-pistol-training/"><img src="https://i.imgur.com/WCyiYNb.jpg" width="200"></a>
+			<div class="text-block">
+					<h2 text-align="center">Next Level Training</h2>
+					<p>Short Indicating Resetting Trigger (SIRT) Pistol Training-by Shooters for shooters.</p>
+			</div>
+		</div>
+		<div class="third-middle">
+			<a href="https://www.polis-solutions.net/"><img src="https://i.imgur.com/cid2sJk.jpg" width="200"></a>
+			<div class="text-block">
+					<h2 text-align="center">Polis Solutions</h2>
+					<p>Custom Training, Consulting, and Research to Build Public Trust.</p>
+			</div>
+		</div>
+	</div>
+	<div class="bux">
+			<div class="clearfix">
+				<a href="http://arrestling.com/store/Final-Ops-Backup-Holster-p111450895"><img class="img1" src="https://i.imgur.com/RrpI2gO.jpg" height="140"><h4 height="150">FinalOps <br/>Back-up Holsterss <br/></h4></a>
+			</div>
+			<div class="clearfix">
+				<a href="http://arrestling.com/arrestling-training-manuals/"><img class="img2" src="https://i.imgur.com/aMdacP4.jpg"height="130"><h4 height="150">Arrestling <br/>Training <br/> Manual</h4></a>
+			</div>
+	</div>
+		
+	<div class="down">
+		<footer>
+			Copyright 2018, Shokunbi Aminah
+		</footer>
+	</div>
+</div>
+<body>
+
+</body>
+</html>
